@@ -1,0 +1,17 @@
+# Virtual Environment
+.venv/
+venv/
+env/
+
+# Streamlit Local Secrets (Keep your API keys private)
+.streamlit/secrets.toml
+
+# Python artifacts
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Operating System files
+.DS_Store
+Thumbs.db
